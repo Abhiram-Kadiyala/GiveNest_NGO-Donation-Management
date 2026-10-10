@@ -1,4 +1,4 @@
-# GiveNest — Smart NGO Donation Management (MERN)
+# GiveNest — Smart NGO Donation Management
 
 A full-stack classroom project using React, Node.js, Express, MongoDB and Mongoose. It includes role-based dashboards, NGO approval, money/item donation tracking, SmartMatch recommendations, urgent wishlists, notifications, audit logs, campaign analytics, and printable donation acknowledgements.
 
